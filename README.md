@@ -5,7 +5,7 @@
     Hi 👋 I'm Ahmed Gohar
   </h1>
   <p style="font-size:1.3em; color:#E97627; margin-top:0;">
-    Data Analyst | BI Enthusiast | Lifelong Learner
+    Data Analyst
   </p>
   <p style="color:gray; font-size:1.1em; margin-top:0.5em;">
     Results-driven Data Analyst specializing in business intelligence, data visualization, and SQL-based reporting.<br>
