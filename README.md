@@ -28,8 +28,6 @@ Exctracting the value of the data by taking data-driven decisions, building reli
 ---
 
 ## Selected Projects
-> Replace project titles/links with your pinned repos or project pages.
-
 - [Telco Churn Prediction](https://github.com/Ahmed-Gohar1/telco-churn-prediction) — end-to-end modeling pipeline, data cleaning, and Streamlit demo.
 - [E‑commerce Analytics Dashboard](https://github.com/Ahmed-Gohar1/your-ecom-repo) — ETL, aggregated metrics, Tableau & Power BI dashboards.
 - [SQL Reporting Pipelines](https://github.com/Ahmed-Gohar1/your-sql-repo) — automated SQL pipelines and scheduled reporting for stakeholders.
