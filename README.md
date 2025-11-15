@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi, I'm Ahmed Gohar</h1>
-  <p><strong>Data Engineer & Analyst</strong> — building data pipelines, automations, and dashboards that turn raw data into business value.</p>
+  <p><strong>Data Engineer & Analyst</strong> — Turning messy to organized, real-world value data</p>
 
   <!-- Badges -->
   <p>
@@ -16,18 +16,14 @@
 ---
 
 ## About
-I help teams make data-driven decisions by building reliable ETL pipelines, designing analytics data models, and delivering insightful dashboards. I focus on automation, reproducibility, and clear storytelling with data.
-
-- 🔭 I build ETL and data orchestration solutions (Python, SQL, Airflow).
-- ⚡ I turn messy data into dashboards and reports (Tableau, Power BI, Excel).
-- 🌱 I'm continuously learning advanced analytics, cloud data tooling, and scalable engineering patterns.
+Exctracting the value of the data by taking data-driven decisions, building reliable ETL pipelines, designing analytics data models, and delivering functional dashboards.
 
 ---
 
 ## Key Highlights
 - HarvardX CS50x — solid foundation in computer science and practical coding.
-- Experience with SQL-based analytics, ETL automation, and dashboarding.
-- Projects covering e-commerce analytics, library/retail reporting, and process automation.
+- Experience with SQL-based analytics, ETL automation, and dashboarding (Python, SQL, Airflow).
+- Projects covering e-commerce analytics, library/retail reporting, and process automation (Tableau, Power BI, Excel).
 
 ---
 
@@ -54,13 +50,6 @@ I help teams make data-driven decisions by building reliable ETL pipelines, desi
 
 ---
 
-## How I Work
-- I prioritize reproducibility: versioned code, modular ETL, clear README & README badges.
-- I prefer automated CI for tests and data validation.
-- I document assumptions and provide "how-to-run" examples for every repo.
-
----
-
 ## Certifications & Education
 - HarvardX — CS50x
 - HackerRank — SQL Advanced
@@ -69,23 +58,8 @@ I help teams make data-driven decisions by building reliable ETL pipelines, desi
 
 ---
 
-## Open to
-- Collaboration on analytics & data engineering projects
-- Mentoring junior data engineers and analysts
-- Short-term contract work around ETL / dashboards
-
----
-
 ## Contact
 - Email: gohar.ahmed21@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/gohar26/
-
----
-
-## Tips & Next Steps
-- Pin 4–6 repos to your GitHub profile that showcase: ETL, dashboarding, modeling, and tooling.
-- Add short GIFs or screenshots for demos (host in repo / use raw GitHub links).
-- Consider GitHub Actions to refresh stats or run tests on pushes.
-- Keep README concise — link out to detailed project READMEs for deep dives.
 
 <!-- End of profile README -->
